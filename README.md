@@ -1,6 +1,10 @@
 # DBounce
 
-**TODO: Add description**
+[![CircleCI](https://circleci.com/gh/ecpplus/elixir-d-bounce.svg?style=svg)](https://circleci.com/gh/ecpplus/elixir-d-bounce)
+
+[d-bounce](https://www.npmjs.com/package/d-bounce) implementation in Elixir.
+
+
 
 ## Installation
 
@@ -10,7 +14,7 @@ by adding `d_bounce` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:d_bounce, "~> 0.1.0"}
+    {:d_bounce, "> 0.1.0"}
   ]
 end
 ```
